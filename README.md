@@ -1,0 +1,2 @@
+# ShannonFanoAlgorithm
+written in Java
